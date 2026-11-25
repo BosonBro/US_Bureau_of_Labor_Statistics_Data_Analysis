@@ -1,5 +1,6 @@
 # US_Bureau_of_Labor_Statistics_Data_Analysis
-- Data analysis project using real data from the US Bureau of Labor Statistics to gain an in-depth insight into actual occupational trends and job growth.
+Data analysis project using real data from the US Bureau of Labor Statistics to gain an in-depth insight into actual occupational trends and job growth.
+
                                                                   Executive Summary
   The job market in the United States of America has been in a state of tension for a few years. There has been a tremendous amount of speculation that artificial intelligence is the cause of mass layoffs and a reduction in new job opportunities. Although artificial intelligence has had a significant impact on the way many companies view productivity and get things done, the reality of the economy is much more complex than the simplistic argument that AI is taking people's jobs. In order to get a better understanding of what is actually happening, I gathered real data from the US Bureau of Labor Statistics.
   Part 1 of my analysis covers 'Table 1.3 Fastest growing occupations, 2025 and projected 2035 (Employment in thousands)'. Before looking at the economy as a whole, it makes sense to take a look at the fastest growing jobs to highlight the disparity between the idea that the job market is shrinking and the actuality of more jobs being added in certain fields. Using Python to visualize the data and crunch the numbers, I was able to get a better perspective of what is happening. These are the key takeaways.
